@@ -1,0 +1,102 @@
+.head{
+    text-align: center;
+    margin: 49px 0px;
+
+}
+.head h1{
+    color: #4b4242;
+    font-size: 57px;
+    border-bottom: 4px solid #0acccc ;
+    display: inline-flex;
+    padding: 18px 0px;
+}
+.works h3{
+    font-size: 21px;
+    font-weight: 700; 
+}
+.idel{
+    margin-top: 71px;
+}
+.idel h3{
+    font-size: 21px;
+    font-weight: 700;
+}
+.idel ul{
+    
+    line-height: 28px;
+}
+.idel ul li{
+ color: #0acccc;
+}
+.qwe{
+    color: #4b4242;
+}
+.image-online{
+    display: inline-flex;
+}
+.image-online h5{
+    font-size: 22px;
+    padding: 14px 0px;
+
+}
+
+.img-data{
+    display: inline-flex;
+}
+.img-data h5{
+    font-size: 22px;
+    padding: 14px 0px;
+
+}
+.total{
+    text-align: center;
+    margin:45px 0px;
+}
+.center{
+    text-align: center;
+}
+.base {
+    display: inline-flex;
+}
+.base h5{
+    font-size: 22px;
+    padding: 14px 0px;
+
+}
+
+.social {
+    display: inline-flex;
+}
+.social h5{
+    font-size: 22px;
+    padding: 14px 0px;
+
+}
+.total-one{
+    text-align: center;
+    margin:45px 0px;
+}
+.lear{
+    text-align: center;
+    line-height: 108px;
+}
+.lear h1{
+    color: #4b4242;
+    font-size: 57px;
+    border-bottom: 4px solid #0acccc;
+    display: inline-flex;
+    padding: 28px 0px;
+    margin-bottom: 18px;
+}
+.lear p{
+    font-weight: 500;
+}
+#rst{
+    max-width: 283px;
+}
+.foot{
+    text-align: center;
+}
+.mainp{
+    margin: 34px 0px;
+}
